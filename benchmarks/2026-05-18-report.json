@@ -1,0 +1,92 @@
+{
+  "periodDays": 7,
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-18",
+  "totalSessions": 0,
+  "totalRequests": 0,
+  "totalInputTokens": 0,
+  "totalOutputTokens": 0,
+  "totalCacheReadTokens": 0,
+  "totalCacheCreationTokens": 0,
+  "cacheHitRate": 0,
+  "totalCostUsd": 0,
+  "avgCostPerSession": 0,
+  "avgTokensPerRequest": 0,
+  "dailyAvgCostUsd": 0,
+  "projectedMonthlyUsd": 0,
+  "byDay": [
+    {
+      "date": "2026-05-12",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-13",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-14",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-15",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-16",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-17",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    },
+    {
+      "date": "2026-05-18",
+      "sessions": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheCreationTokens": 0,
+      "requests": 0,
+      "costUsd": 0
+    }
+  ],
+  "topFiles": [],
+  "model": "claude-sonnet-4-6",
+  "generatedAt": "2026-05-18T11:44:10.150Z"
+}
