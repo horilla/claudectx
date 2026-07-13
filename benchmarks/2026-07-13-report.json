@@ -1,7 +1,7 @@
 {
   "periodDays": 7,
-  "startDate": "2026-06-29",
-  "endDate": "2026-07-06",
+  "startDate": "2026-07-06",
+  "endDate": "2026-07-13",
   "totalSessions": 0,
   "totalRequests": 0,
   "totalInputTokens": 0,
@@ -16,7 +16,7 @@
   "projectedMonthlyUsd": 0,
   "byDay": [
     {
-      "date": "2026-06-30",
+      "date": "2026-07-07",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -26,7 +26,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-08",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -36,7 +36,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-02",
+      "date": "2026-07-09",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -46,7 +46,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-03",
+      "date": "2026-07-10",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -56,7 +56,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-11",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -66,7 +66,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-12",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -76,7 +76,7 @@
       "costUsd": 0
     },
     {
-      "date": "2026-07-06",
+      "date": "2026-07-13",
       "sessions": 0,
       "inputTokens": 0,
       "outputTokens": 0,
@@ -88,5 +88,5 @@
   ],
   "topFiles": [],
   "model": "claude-sonnet-4-6",
-  "generatedAt": "2026-07-06T12:04:23.606Z"
+  "generatedAt": "2026-07-13T11:10:30.812Z"
 }
